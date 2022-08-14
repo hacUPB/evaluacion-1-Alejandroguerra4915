@@ -1,27 +1,13 @@
+# Evaluacion 1
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+Descripcion 
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
+![imagen](https://www.google.com/search?q=linux&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj83pSHiMX5AhUnr4QIHUVqBxIQ_AUoAXoECAIQAw&biw=1745&bih=792&dpr=1.1#imgrc=FuuqUdC-EtJ_1M)
 
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
+[vinculo] (https://www.notion.so/Git-Github-y-Github-Classroom-66bd89e15a314e2eb75b913831b4806a)
 
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
-
-
++git clone(url)
++git add
++git commit -m
++git push
 
