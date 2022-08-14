@@ -6,8 +6,8 @@ Descripcion
 
 [vinculo](https://www.notion.so/Git-Github-y-Github-Classroom-66bd89e15a314e2eb75b913831b4806a)
 
-+git clone(url)
-+git add
-+git commit -m
-+git push
+1. git clone(url)
+2. git add
+3. git commit -m
+4. git push
 
